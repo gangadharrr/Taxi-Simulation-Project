@@ -1,0 +1,13 @@
+Alex Taxi-1 140 09:30
+Bran Taxi-2 80 09:40
+Chan REJECTED
+Dash Taxi-2 150 10:38
+Ezan Taxi-1 230 11:22
+Flin Taxi-2 140 11:20
+Gant REJECTED
+Henn Taxi-1 140 12:30
+Ivyy Taxi-2 140 13:00
+Jack Taxi-1 130 14:03
+Keln Taxi-2 130 14:57
+Lexa Taxi-1 150 15:08
+Maxx REJECTED
